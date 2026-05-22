@@ -11,3 +11,4 @@ volume 0.6;snd_gamevolume 1;snd_menumusic_volume 0;snd_roundstart_volume 0;snd_r
 fps_max 0;rate 786432;r_drawtracers_firstperson true;r_fullscreen_gamma 2;cl_show_observer_crosshair 2;cl_sniper_show_inaccuracy false;cl_player_ping_mute 1;fov_desired 75;cl_showloadout false;con_enable true
 
 bind "v" "noclip";bind "z" "slot8";bind "MWHEELUP" "+jump";bind "c" "+voicerecord";unbind "MWHEELDOWN";bind "MOUSE4" "host_timescale 1";unbind "8";bind "RIGHTARROW" "sv_cheats 1;mp_freezetime 0;mp_limitteams 0;mp_autokick 0;mp_autoteambalance 0;mp_ignore_round_win_conditions 1;sv_infinite_ammo 2;mp_startmoney 323232;mp_maxmoney 323232;mp_buytime 32323;mp_buy_anywhere 1;mp_restartgame 1";bind "n" "sv_rethrow_last_grenade";bind "MOUSE5" "host_timescale 10";bind "h" "slot12";bind "x" "say ez ♿"
+
